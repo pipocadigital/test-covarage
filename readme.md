@@ -1,4 +1,4 @@
-# Test Covarager Code Guide
+# Test Coverage Code Guide
 
 > Lorem ipsum
 
